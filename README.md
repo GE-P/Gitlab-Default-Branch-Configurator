@@ -1,4 +1,6 @@
-# Gitlab Default Branch Configurator
+
+
+![Alt text](<docs/image.png>)
 
 
 This script is designed to automate the configuration of default branches, specifically 'main' and 'master', in GitLab projects. It utilizes the GitLab API to achieve this and is intended to be run in a secure environment with proper authentication.
